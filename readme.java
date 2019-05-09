@@ -13,4 +13,6 @@ git add . - Add one or more files to staging area
 
 ........
 
+I am editing this file to test stash
+
 
